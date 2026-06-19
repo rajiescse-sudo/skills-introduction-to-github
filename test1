@@ -1,0 +1,4 @@
+public static void main()
+{
+  consol.println("HI my first code");
+}
